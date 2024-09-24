@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/METODOS/METODOS.iml" filepath="$PROJECT_DIR$/METODOS/METODOS.iml" />
       <module fileurl="file://$PROJECT_DIR$/OPERADORES/OPERADORES.iml" filepath="$PROJECT_DIR$/OPERADORES/OPERADORES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TERMINAL/TERMINAL.iml" filepath="$PROJECT_DIR$/TERMINAL/TERMINAL.iml" />
       <module fileurl="file://$PROJECT_DIR$/TIPOS-VARIAVEIS/TIPOS-VARIAVEIS.iml" filepath="$PROJECT_DIR$/TIPOS-VARIAVEIS/TIPOS-VARIAVEIS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-basico.iml" filepath="$PROJECT_DIR$/.idea/java-basico.iml" />
     </modules>
